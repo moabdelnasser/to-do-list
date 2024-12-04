@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "to-do-list",
+    "slug": "to-do-list",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "1580793c-ec1f-4fc0-bb52-936abbb9b358"
+      }
+    }
+  }
+}
